@@ -1,0 +1,723 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Point of Sale(POS)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-16 12:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/icwcpos_front_customer_search.php:88
+#, php-format
+msgid "%1$s (#%2$s - %3$s)"
+msgstr ""
+
+#: includes/icwcpos_checkout.php:252
+#, php-format
+msgid "%s fee"
+msgstr ""
+
+#: includes/icwcpos_template.php:316 includes/icwcpos_template.php:628
+#, php-format
+msgid "%s in stock"
+msgstr ""
+
+#: includes/icwcpos_function.php:862
+msgid "Add ..."
+msgstr ""
+
+#: includes/icwcpos_template.php:624
+msgid "Add Guest Customer"
+msgstr ""
+
+#: includes/icwcpos_template.php:601
+msgid "Add Meta"
+msgstr ""
+
+#: includes/icwcpos_template.php:581 includes/icwcpos_template.php:623
+msgid "Add New Customer"
+msgstr ""
+
+#: includes/icwcpos_front_thank_you_page.php:178
+msgid "Add New Order"
+msgstr ""
+
+#: includes/icwcpos_function.php:368 includes/icwcpos_function.php:443
+msgid "Address line 1"
+msgstr ""
+
+#: includes/icwcpos_function.php:373 includes/icwcpos_function.php:448
+msgid "Address line 2"
+msgstr ""
+
+#: template/template.php:91
+msgid "Alert"
+msgstr ""
+
+#: includes/icwcpos_function.php:860
+msgid "Annotate ..."
+msgstr ""
+
+#: includes/icwcpos_function.php:780 includes/icwcpos_function.php:794
+msgid "April"
+msgstr ""
+
+#: includes/icwcpos_function.php:872
+msgid "Arrow"
+msgstr ""
+
+#: includes/icwcpos_template.php:578 includes/icwcpos_template.php:596
+msgid "Attendee"
+msgstr ""
+
+#: includes/icwcpos_admin_order_edit.php:29
+msgid "Attendee ID"
+msgstr ""
+
+#: includes/icwcpos_admin_order_edit.php:32
+msgid "Attendee Name"
+msgstr ""
+
+#: includes/icwcpos_function.php:798
+msgid "Aug."
+msgstr ""
+
+#: includes/icwcpos_function.php:784
+msgid "August"
+msgstr ""
+
+#: includes/icwcpos_front_thank_you_page.php:238
+msgid "Billing address"
+msgstr ""
+
+#: includes/icwcpos_function.php:855
+msgid "Cancel"
+msgstr ""
+
+#: includes/icwcpos_function.php:861
+msgid "Change ..."
+msgstr ""
+
+#: includes/icwcpos_template.php:617
+msgid "Checkout"
+msgstr ""
+
+#: includes/icwcpos_function.php:378 includes/icwcpos_function.php:452
+msgid "City"
+msgstr ""
+
+#: includes/icwcpos_template.php:589
+msgid "Clear"
+msgstr ""
+
+#: includes/icwcpos_template.php:612
+msgid "Clear Cart"
+msgstr ""
+
+#: includes/icwcpos_function.php:850
+msgid "Click to cancel"
+msgstr ""
+
+#: template/template.php:98
+msgid "Close"
+msgstr ""
+
+#: includes/icwcpos_function.php:864
+msgid "Color ..."
+msgstr ""
+
+#: includes/icwcpos_function.php:362 includes/icwcpos_function.php:439
+msgid "Company"
+msgstr ""
+
+#: includes/icwcpos_function.php:388 includes/icwcpos_function.php:462
+msgid "Country"
+msgstr ""
+
+#: template/template.php:29
+msgid "Coupon"
+msgstr ""
+
+#: includes/icwcpos_function.php:846
+msgid "CTRL + C to copy the data into the clipboard."
+msgstr ""
+
+#: includes/icwcpos_function.php:346
+msgid "Customer billing address"
+msgstr ""
+
+#: template/template.php:94
+msgid ""
+"Customer is not selected; However if you want to go with Guest customer, "
+"Click on \"Place Order\" button."
+msgstr ""
+
+#: includes/icwcpos_admin_dashboard.php:69 includes/icwcpos_init.php:109
+#: includes/icwcpos_init.php:109
+msgid "Dashboard"
+msgstr ""
+
+#: includes/icwcpos_front_thank_you_page.php:59
+msgid "Date:"
+msgstr ""
+
+#: includes/icwcpos_function.php:802
+msgid "Dec."
+msgstr ""
+
+#: includes/icwcpos_function.php:788
+msgid "December"
+msgstr ""
+
+#. Author of the plugin
+msgid "Deepak Shah"
+msgstr ""
+
+#: includes/icwcpos_template.php:588
+msgid "Details"
+msgstr ""
+
+#: includes/icwcpos_template.php:609
+msgid "Discount"
+msgstr ""
+
+#: includes/icwcpos_function.php:857
+msgid "Download as ..."
+msgstr ""
+
+#: includes/icwcpos_function.php:407
+msgid "Email address"
+msgstr ""
+
+#: includes/icwcpos_front_thank_you_page.php:65
+msgid "Email:"
+msgstr ""
+
+#: includes/icwcpos_template.php:587
+msgid "Enter Customer Email Or Name."
+msgstr ""
+
+#: includes/icwcpos_function.php:792
+msgid "Feb."
+msgstr ""
+
+#: includes/icwcpos_function.php:778
+msgid "February"
+msgstr ""
+
+#: includes/icwcpos_template.php:606 includes/icwcpos_template.php:615
+msgid "Fee"
+msgstr ""
+
+#: includes/icwcpos_function.php:351 includes/icwcpos_function.php:429
+msgid "First name"
+msgstr ""
+
+#: includes/icwcpos_function.php:818
+msgid "Fri."
+msgstr ""
+
+#: includes/icwcpos_function.php:809
+msgid "Friday"
+msgstr ""
+
+#: includes/icwcpos_admin_dashboard.php:76
+msgid "Gross Collection"
+msgstr ""
+
+#: includes/icwcpos_template.php:591
+msgid "Guest Customer"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://plugins.infosofttech.com/"
+msgstr ""
+
+#: includes/icwcpos_checkout.php:294
+msgid "IC POS Transaction completed."
+msgstr ""
+
+#: includes/icwcpos_function.php:791
+msgid "Jan."
+msgstr ""
+
+#: includes/icwcpos_function.php:777
+msgid "January"
+msgstr ""
+
+#: includes/icwcpos_function.php:797
+msgid "Jul."
+msgstr ""
+
+#: includes/icwcpos_function.php:783
+msgid "July"
+msgstr ""
+
+#: includes/icwcpos_function.php:796
+msgid "Jun."
+msgstr ""
+
+#: includes/icwcpos_function.php:782
+msgid "June"
+msgstr ""
+
+#: includes/icwcpos_admin_dashboard.php:140
+msgid "Last 30 days collection"
+msgstr ""
+
+#: includes/icwcpos_function.php:356 includes/icwcpos_function.php:434
+msgid "Last name"
+msgstr ""
+
+#: includes/icwcpos_function.php:871
+msgid "Line"
+msgstr ""
+
+#: includes/icwcpos_admin_dashboard.php:181
+msgid "Line Total"
+msgstr ""
+
+#: includes/icwcpos_init.php:62
+msgid "Location Collection"
+msgstr ""
+
+#: template/template.php:46
+msgid "Logout"
+msgstr ""
+
+#: includes/icwcpos_function.php:779 includes/icwcpos_function.php:793
+msgid "March"
+msgstr ""
+
+#: includes/icwcpos_function.php:781
+msgid "May"
+msgstr ""
+
+#: includes/icwcpos_function.php:795
+msgid "May."
+msgstr ""
+
+#: includes/icwcpos_function.php:869
+msgid "Mode ..."
+msgstr ""
+
+#: includes/icwcpos_function.php:814
+msgid "Mond."
+msgstr ""
+
+#: includes/icwcpos_function.php:805
+msgid "Monday"
+msgstr ""
+
+#: includes/icwcpos_template.php:600
+msgid "More"
+msgstr ""
+
+#: includes/icwcpos_front_thank_you_page.php:43
+msgid "My account"
+msgstr ""
+
+#: includes/icwcpos_front_thank_you_page.php:241
+#: includes/icwcpos_front_thank_you_page.php:259
+#: includes/icwcpos_template.php:527
+msgid "N/A"
+msgstr ""
+
+#: includes/icwcpos_admin_dashboard.php:91
+msgid "Net Collection"
+msgstr ""
+
+#: includes/icwcpos_admin_dashboard.php:107 includes/icwcpos_template.php:613
+msgid "New Customer"
+msgstr ""
+
+#: includes/icwcpos_function.php:102
+msgid "next"
+msgstr ""
+
+#: includes/icwcpos_front_thank_you_page.php:162
+msgid "Note:"
+msgstr ""
+
+#: includes/icwcpos_function.php:801
+msgid "Nov."
+msgstr ""
+
+#: includes/icwcpos_function.php:787
+msgid "November"
+msgstr ""
+
+#: includes/icwcpos_function.php:800
+msgid "Oct."
+msgstr ""
+
+#: includes/icwcpos_function.php:786
+msgid "October"
+msgstr ""
+
+#: includes/icwcpos_function.php:866
+msgid "Opacity ..."
+msgstr ""
+
+#: includes/icwcpos_checkout.php:366
+#, php-format
+msgid "Order &ndash; %s"
+msgstr ""
+
+#: includes/icwcpos_admin_dashboard.php:155
+msgid "Order Count"
+msgstr ""
+
+#: includes/icwcpos_checkout.php:366
+msgctxt "Order date parsed by strftime"
+msgid "%b %d, %Y @ %I:%M %p"
+msgstr ""
+
+#: includes/icwcpos_front_thank_you_page.php:117
+msgid "Order details"
+msgstr ""
+
+#: includes/icwcpos_template.php:614
+msgid "Order Note"
+msgstr ""
+
+#: includes/icwcpos_front_thank_you_page.php:54
+msgid "Order number:"
+msgstr ""
+
+#: includes/icwcpos_admin_dashboard.php:156 includes/icwcpos_template.php:610
+msgid "Order Total"
+msgstr ""
+
+#: includes/icwcpos_checkout.php:298
+msgid "order was added by woocommerce point of sale plugin"
+msgstr ""
+
+#: template/template.php:27
+msgid "Orders"
+msgstr ""
+
+#: includes/icwcpos_template.php:536
+msgid "Other"
+msgstr ""
+
+#: includes/icwcpos_function.php:265
+msgid "Par Page"
+msgstr ""
+
+#: includes/icwcpos_front_thank_you_page.php:41
+msgid "Pay"
+msgstr ""
+
+#: includes/icwcpos_admin_dashboard.php:149
+msgid "Payment Method"
+msgstr ""
+
+#: includes/icwcpos_admin_dashboard.php:154
+msgid "Payment Method Title"
+msgstr ""
+
+#: includes/icwcpos_front_thank_you_page.php:77
+msgid "Payment method:"
+msgstr ""
+
+#: includes/icwcpos_function.php:870
+msgid "Pencil"
+msgstr ""
+
+#: includes/icwcpos_end_point_settings.php:34
+msgctxt "Permalink setting, eg: /point-of-sale"
+msgid "Point of Sale base"
+msgstr ""
+
+#: includes/icwcpos_function.php:402
+msgid "Phone"
+msgstr ""
+
+#: template/template.php:97
+msgid "PLACE ORDER"
+msgstr ""
+
+#: includes/icwcpos_template.php:621
+msgid "Place Order"
+msgstr ""
+
+#: includes/icwcpos_template.php:583
+#, php-format
+msgid "Please enter %s."
+msgstr ""
+
+#: includes/icwcpos_template.php:585
+msgid "Please enter valid billing email."
+msgstr ""
+
+#: includes/icwcpos_template.php:584
+#, php-format
+msgid "Please select %s."
+msgstr ""
+
+#: includes/icwcpos_template.php:590
+msgid "Please select customer."
+msgstr ""
+
+#: includes/icwcpos_init.php:61 includes/icwcpos_template.php:577
+msgid "Please Wait!"
+msgstr ""
+
+#: template/template.php:57
+msgid "Please Wait, loading products"
+msgstr ""
+
+#: includes/icwcpos_init.php:108 template/template.php:4
+#: template/template.php:41
+msgid "Point of Sale"
+msgstr ""
+
+#. Description of the plugin
+msgid "Point of sale"
+msgstr ""
+
+#: includes/icwcpos_end_point_settings.php:110
+#, php-format
+msgid "Point of Sale Location: %s"
+msgstr ""
+
+#: template/template.php:39
+#, php-format
+msgid "Point of Sale: %s"
+msgstr ""
+
+#: includes/icwcpos_function.php:383 includes/icwcpos_function.php:457
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: includes/icwcpos_function.php:101
+msgid "previous"
+msgstr ""
+
+#: includes/icwcpos_template.php:597
+msgid "Price"
+msgstr ""
+
+#: includes/icwcpos_front_thank_you_page.php:179
+#: includes/icwcpos_function.php:852
+msgid "Print"
+msgstr ""
+
+#: includes/icwcpos_front_thank_you_page.php:123
+#: includes/icwcpos_template.php:595
+msgid "Product"
+msgstr ""
+
+#: includes/icwcpos_admin_dashboard.php:180
+msgid "Product Name"
+msgstr ""
+
+#: template/template.php:28
+msgid "Products"
+msgstr ""
+
+#: includes/icwcpos_template.php:594
+msgid "Qty."
+msgstr ""
+
+#: includes/icwcpos_function.php:854
+msgid "Redo"
+msgstr ""
+
+#: includes/icwcpos_template.php:602
+msgid "Remove Meta"
+msgstr ""
+
+#: includes/icwcpos_admin_dashboard.php:122
+msgid "Repeat Customer"
+msgstr ""
+
+#: includes/icwcpos_template.php:580 includes/icwcpos_template.php:620
+msgid "Return To Sale"
+msgstr ""
+
+#: includes/icwcpos_function.php:847
+msgid "Rightclick -> Save picture as... to save the image."
+msgstr ""
+
+#: includes/icwcpos_function.php:819
+msgid "Sat."
+msgstr ""
+
+#: includes/icwcpos_function.php:810
+msgid "Saturday"
+msgstr ""
+
+#: includes/icwcpos_function.php:858
+msgid "Save as ..."
+msgstr ""
+
+#: template/template.php:55
+msgid "Search products"
+msgstr ""
+
+#: includes/icwcpos_function.php:392 includes/icwcpos_function.php:466
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: includes/icwcpos_template.php:579
+msgid "Select Attendee"
+msgstr ""
+
+#: includes/icwcpos_function.php:799
+msgid "Sep."
+msgstr ""
+
+#: includes/icwcpos_function.php:785
+msgid "September"
+msgstr ""
+
+#: includes/icwcpos_function.php:863
+msgid "Shape ..."
+msgstr ""
+
+#: includes/icwcpos_function.php:419
+msgid "Ship to a different address?"
+msgstr ""
+
+#: includes/icwcpos_template.php:604 includes/icwcpos_template.php:616
+msgid "Shipping"
+msgstr ""
+
+#: includes/icwcpos_front_thank_you_page.php:257
+msgid "Shipping address"
+msgstr ""
+
+#: includes/icwcpos_template.php:605
+msgid "Shipping Method"
+msgstr ""
+
+#: includes/icwcpos_function.php:865
+msgid "Size ..."
+msgstr ""
+
+#: includes/icwcpos_template.php:422
+msgid "Standard"
+msgstr ""
+
+#: includes/icwcpos_function.php:396 includes/icwcpos_function.php:470
+msgid "State / County"
+msgstr ""
+
+#: includes/icwcpos_function.php:207 includes/icwcpos_function.php:397
+#: includes/icwcpos_function.php:471
+msgid "State / County or state code"
+msgstr ""
+
+#: includes/icwcpos_template.php:608
+msgid "Subtotal"
+msgstr ""
+
+#: includes/icwcpos_init.php:60
+msgid "Successfully Updated."
+msgstr ""
+
+#: includes/icwcpos_function.php:820
+msgid "Sun."
+msgstr ""
+
+#: includes/icwcpos_function.php:811
+msgid "Sunday"
+msgstr ""
+
+#: includes/icwcpos_function.php:867
+msgid "Text"
+msgstr ""
+
+#: includes/icwcpos_front_thank_you_page.php:49
+#: includes/icwcpos_front_thank_you_page.php:93
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: includes/icwcpos_function.php:817
+msgid "Thu."
+msgstr ""
+
+#: includes/icwcpos_function.php:808
+msgid "Thursday"
+msgstr ""
+
+#: includes/icwcpos_template.php:627
+msgid "To Pay: "
+msgstr ""
+
+#: includes/icwcpos_admin_dashboard.php:175
+msgid "Top product"
+msgstr ""
+
+#: includes/icwcpos_front_thank_you_page.php:124
+#: includes/icwcpos_template.php:598
+msgid "Total"
+msgstr ""
+
+#: includes/icwcpos_front_thank_you_page.php:71
+msgid "Total:"
+msgstr ""
+
+#: includes/icwcpos_function.php:815
+msgid "Tue."
+msgstr ""
+
+#: includes/icwcpos_function.php:806
+msgid "Tuesday"
+msgstr ""
+
+#: includes/icwcpos_function.php:853
+msgid "Undo"
+msgstr ""
+
+#: includes/icwcpos_front_thank_you_page.php:38
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction. Please attempt your purchase "
+"again."
+msgstr ""
+
+#: includes/icwcpos_template.php:582 includes/icwcpos_template.php:622
+msgid "Update Customer"
+msgstr ""
+
+#: includes/icwcpos_init.php:111
+msgid "View POS"
+msgstr ""
+
+#: includes/icwcpos_end_point_settings.php:99
+msgid "Visit Point of Sale"
+msgstr ""
+
+#: includes/icwcpos_function.php:816
+msgid "Wed."
+msgstr ""
+
+#: includes/icwcpos_function.php:807
+msgid "Wednesday"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Point of Sale(POS)"
+msgstr ""
+
+#: includes/icwcpos_template.php:626
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: includes/icwcpos_function.php:833
+msgid "Zoom Out"
+msgstr ""
+
+#: includes/icwcpos_function.php:849
+msgid "{{duration}}"
+msgstr ""
